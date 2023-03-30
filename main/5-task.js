@@ -9,7 +9,3 @@ console.log(
     "You can think of the key as the named index of an associative array. JavaScript does not have an associative array. Instead, JavaScript objects are used to store key-value pairs."
   )
 );
-
-// You can think of the key as the named index of an associative array.
-// JavaScript does not have an associative array.
-// Instead, JavaScript objects are used to store key-value pairs.
